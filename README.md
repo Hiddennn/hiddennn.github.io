@@ -1,2 +1,2 @@
 # bytes counter
-https://github.com/Hiddennn/bytescounter
+https://hiddennn.github.io/bytescounter/
